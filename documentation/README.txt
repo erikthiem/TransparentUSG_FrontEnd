@@ -10,5 +10,9 @@ It will allow students to:
        petitions. This will be similar to change.org. Once petitions reach
        a certain number of votes, they will be emailed to USG for consideration.
 
-This README, which isn't quite complete, will contain documentation relating to
-the front end.
+This app is developed on top of the Angular-Seed
+(https://github.com/angular/angular-seed) project.
+
+To run the frontend, navigate to the /code directory and type "npm start". This
+will create a local server. Navigate to "localhost:8000/app" in a web browser
+to see the app.
