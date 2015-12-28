@@ -16,3 +16,6 @@ This app is developed on top of the Angular-Seed
 To run the frontend, navigate to the /code directory and type "npm start". This
 will create a local server. Navigate to "localhost:8000/app" in a web browser
 to see the app.
+
+This front end uses a Trello for project management. The link to this
+Trello page is: https://trello.com/b/iG98Vtb0/front-end
